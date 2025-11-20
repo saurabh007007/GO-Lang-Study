@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"rsc.io/quote"
+	//added the external package --->>> go get rsc.io/quote
 )
 
 // conditional go lang
